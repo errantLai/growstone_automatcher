@@ -1,0 +1,24 @@
+Operant conditioning (also called "instrumental conditioning") is a learning process through which the strength of a behavior is modified by reinforcement or punishment. 
+Behavior that is followed by pleasant consequences is likely to be repeated, and behavior followed by unpleasant consequences is less likely to be repeated
+For example, the positive reinforcement is the visible acts of inceasing power, achievements for reaching a certain stone level, completing quests
+
+Variable ratio reinforcement: Behavior is reinforced after an unpredictable number of times 
+	Gambling
+	Fishing
+	Random occurences/prizes
+All about behaviour modification. However, what is most important to realize is that when you reward the action only part of the time, the action will continue to be repeated. interval reinforcement
+
+Botting required to complete the simple action, while still maintaining the benefits of progress. 
+
+
+Math behind the template: For each point (x, y), the stone template slides over the screenshot image, 
+This function finds the dot product of the Pearson correlation coefficient generated from each image slice.
+It's important because it reduces each image into a single vector representation, that can be easily
+compared to the screenshot.
+
+AutoIt v3 is a freeware BASIC-like scripting language designed for automating the Windows GUI and general scripting. It uses a combination of simulated keystrokes, mouse movement and window/control manipulation in order to automate tasks in a way not possible or reliable with other languages (e.g. VBScript and SendKeys). AutoIt is also very small, self-contained and will run on all versions of Windows out-of-the-box with no annoying “runtimes” required!
+
+ABD and the ABDDaemon - Allows for you to remotely send commands to a runing instance, without actually moving the mouse.
+	The potential is clear. ABD can be used to handle multiple daemons, calling out for screenshots of the current screen, rendering and matching against specific templates, then sending out scripts to move the mouse against a defined path! 
+
+This entire activity has got me humbled. Languages, libraries, and technologies have made it ridiculously easy to get a project up and running!
